@@ -5,7 +5,7 @@ expressions, statements, operators, built-in functions
 (100 marks in total, including
 6 exercises (90 marks) + submission (10 marks))
 
-Your Name 😍:
+Your Name 😍:Aidan Lo
 Lab Due: 5:00pm on Jan. 16 (Friday)
 
 Objective:
@@ -112,7 +112,7 @@ day_trip=int(input("Enter the number of days for the trip: "))
 
 day_return=(day_today + day_trip) % 7
 
-print(f"Your trip starts on day {day_today},lasts {days_trip} days. You are back on day {day_return} ")
+print(f"Your trip starts on day {day_today},lasts {days_trip} days. You are back on day {day_return}.")
 #---------------------------------------------------------
 # Submission (10 marks):
 # After you finish this lab, please:
